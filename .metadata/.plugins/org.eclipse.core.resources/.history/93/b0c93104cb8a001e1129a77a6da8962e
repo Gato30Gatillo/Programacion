@@ -1,0 +1,18 @@
+package ejerciciosprofe;
+
+import java.util.Scanner;
+
+public class EjercicioProfesorWhile {
+	public static void main(String[] args) {
+		int n,contador=1;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("selecciona el numero  ");
+		n= sc.nextInt();
+		while(n>10) {
+			n=n/10;
+			contador++;
+		}
+		System.out.println("el numero tiene "+contador+" cifras");
+	}
+
+}

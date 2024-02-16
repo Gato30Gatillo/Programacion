@@ -1,0 +1,21 @@
+package ejemplosenclase;
+
+public class AppArrayMetodos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int[] arrayInteger = ArrayMetodos.rellenaArrayAleatorios(20, 50);
+		
+		ArrayMetodos.mostrarArray(arrayInteger);
+		
+		arrayInteger=ArrayMetodos.InvertirArray(arrayInteger);
+		
+		ArrayMetodos.mostrarArray(arrayInteger);
+		
+		arrayInteger=ArrayMetodos.revierteArray(arrayInteger);;
+
+		
+	}
+
+}

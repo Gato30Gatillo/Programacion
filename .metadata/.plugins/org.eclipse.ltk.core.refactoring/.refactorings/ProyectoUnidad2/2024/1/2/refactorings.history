@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;funciones.enclasse.ejerciciosremergerge.java&apos; to &apos;ejerciciosRecursion.java&apos;&#x0D;&#x0A;- Original project: &apos;ProyectoUnidad2&apos;&#x0D;&#x0A;- Original element: &apos;funciones.enclasse.ejerciciosremergerge.java&apos;&#x0D;&#x0A;- Renamed element: &apos;funciones.enclasse.ejerciciosRecursion.java&apos;" description="Rename compilation unit &apos;ejerciciosremergerge.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;funciones.enclasse{ejerciciosremergerge.java" name="ejerciciosRecursion.java" references="false" stamp="1704975342176" version="1.0"/>
+</session>

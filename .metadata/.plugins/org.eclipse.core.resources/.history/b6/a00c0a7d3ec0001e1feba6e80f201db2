@@ -1,0 +1,11 @@
+package ejercicios.cuenta;
+
+public class Cuenta {
+	
+	float saldo;
+	int NumeroDeDepositos=0;
+	int NumeroDeRetiros=0;
+	float TasaAnual;
+	float ComisionMensual=0;
+
+}

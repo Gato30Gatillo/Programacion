@@ -1,0 +1,23 @@
+package ejercicios.ejercicio55;
+
+public class Conserje extends EmpleadoEducacion{
+
+	@Override
+	public double calculoDeSueldo() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double calculoDeImpuesto() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String funcion() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
