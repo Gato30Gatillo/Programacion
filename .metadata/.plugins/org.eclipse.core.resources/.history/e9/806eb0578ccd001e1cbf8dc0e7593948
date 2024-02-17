@@ -1,0 +1,46 @@
+package ejercicio.eningles.exercise21;
+
+import ejemplosenclase.ArrayMetodos;
+
+public class Ejercicio21 {
+
+	public static Integer[] DeleteDuplicateElement(Integer[] arrayParam) {
+		
+		Integer[] arrayRes = new Integer[arrayParam.length];
+		int cont=1;
+		arrayRes[0]=arrayParam[0];
+		boolean repetido=false;
+		for (int i=0;i<arrayParam.length;i++) {	
+			repetido=false;
+			for (int j=0;i<arrayParam.length-4 && repetido==false;j++) {	
+				if(arrayRes[j]==arrayParam[i]) {
+					repetido=true;
+				}
+			}
+			
+			
+			if(repetido=false) {
+				arrayRes[cont]=arrayParam[i];
+				cont++;
+				repetido=false;
+			}
+		}
+		
+		Integer[] arrayEnd = new Integer[cont];
+		for (int i=0;i<cont;i++) {
+			arrayEnd[i]=arrayRes[i];
+		}
+		return arrayEnd;
+	}
+	public static void main(String[] args) {
+		
+		
+		Integer[] arrayInt= ArrayMetodos.rellenaArrayAleatoriosWrap(5,20,25);
+		
+		ArrayMetodos.mostrarArray(arrayInt);
+		
+		arrayInt=DeleteDuplicateElement(arrayInt);//fallo aqui
+		
+		ArrayMetodos.mostrarArray(arrayInt);
+	}
+}
