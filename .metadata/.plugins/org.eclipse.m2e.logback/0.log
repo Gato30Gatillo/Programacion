@@ -1091,3 +1091,7 @@
 2024-02-19 14:43:37,416 [Worker-77: Launching exercise24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
 2024-02-19 14:43:37,417 [Worker-77: Launching exercise24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-02-19 14:43:37,418 [Worker-77: Launching exercise24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-19 14:43:58,324 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-19 14:43:58,325 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-19 14:43:58,327 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-19 14:43:58,328 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
