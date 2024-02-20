@@ -39,4 +39,8 @@ public class Ejercicio22 {
 		
 		System.out.println(cadena);
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fc74cef22feba98a27b48c2208443cc57b24fdf5

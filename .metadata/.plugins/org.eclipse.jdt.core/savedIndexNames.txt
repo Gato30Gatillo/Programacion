@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.134+C:\Users\1DAM\Desktop\programacion\Workspace2\.metadata\.plugins\org.eclipse.jdt.core
 4085942800.index
 2221281080.index
@@ -20,3 +21,10 @@ INDEX VERSION 1.134+C:\Users\1DAM\Desktop\programacion\Workspace2\.metadata\.plu
 3402191244.index
 1844322227.index
 2860558769.index
+=======
+INDEX VERSION 1.134+C:\Users\Usuario\Desktop\programación\Programacion\.metadata\.plugins\org.eclipse.jdt.core
+4085942800.index
+1359730595.index
+1865797976.index
+1844322227.index
+>>>>>>> fc74cef22feba98a27b48c2208443cc57b24fdf5
