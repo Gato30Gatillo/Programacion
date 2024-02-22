@@ -1861,3 +1861,216 @@
 2024-02-20 14:26:49,001 [Worker-2: Launching Exercise23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
 2024-02-20 14:26:49,004 [Worker-2: Launching Exercise23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-02-20 14:26:49,004 [Worker-2: Launching Exercise23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 12:51:30,559 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-21 13:05:47,770 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:05:47,776 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:05:47,781 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:05:47,781 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:07:22,338 [Worker-16: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:07:22,341 [Worker-16: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:07:22,344 [Worker-16: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:07:22,345 [Worker-16: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:07:35,184 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:07:35,185 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:07:35,189 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:07:35,190 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:08:09,104 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:08:09,105 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:08:09,108 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:08:09,109 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:08:35,600 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:08:35,601 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:08:35,604 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:08:35,605 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:09:40,990 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:09:40,991 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:09:40,993 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:09:40,994 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:09:42,546 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:09:42,547 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:09:42,549 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:09:42,550 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:13:48,829 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:13:48,829 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:13:48,832 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:13:48,833 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:17:41,124 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:17:41,125 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:17:41,127 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:17:41,128 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:21:38,992 [Worker-30: Launching AppCliente] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:21:38,993 [Worker-30: Launching AppCliente] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:21:38,995 [Worker-30: Launching AppCliente] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:21:38,996 [Worker-30: Launching AppCliente] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:25:26,952 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:25:26,953 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:25:26,955 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:25:26,956 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:25:53,716 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:25:53,716 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:25:53,718 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:25:53,718 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:26:38,389 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:26:38,390 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:26:38,394 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:26:38,394 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:34:22,263 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:34:22,264 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:34:22,266 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:34:22,266 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:34:25,729 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:34:25,730 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:34:25,732 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:34:25,733 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:34:46,788 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:34:46,789 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:34:46,791 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:34:46,792 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:37:37,734 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:37:37,735 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:37:37,738 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:37:37,738 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:48:29,135 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:48:29,135 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:48:29,137 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:48:29,137 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:48:35,709 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:48:35,710 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:48:35,712 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:48:35,712 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:49:03,318 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:49:03,319 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:49:03,320 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:49:03,321 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 13:59:39,652 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:59:39,652 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 13:59:39,654 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 13:59:39,655 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:00:30,209 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:00:30,210 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:00:30,211 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:00:30,212 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:01:51,033 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:01:51,034 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:01:51,036 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:01:51,036 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:02:00,461 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:02:00,462 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:02:00,465 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:02:00,466 [Worker-35: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:03:46,468 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:03:46,469 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:03:46,471 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:03:46,471 [Worker-33: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:08:50,049 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:08:50,049 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:08:50,051 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:08:50,051 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:12:59,488 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:12:59,489 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:12:59,491 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:12:59,491 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:14:36,669 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:14:36,670 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:14:36,671 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:14:36,672 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:14:48,719 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:14:48,720 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:14:48,722 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:14:48,723 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:15:32,876 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:15:32,877 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:15:32,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:15:32,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:17:29,845 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:17:29,845 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:17:29,847 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:17:29,847 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:19:25,480 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:19:25,481 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:19:25,483 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:19:25,483 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:19:42,239 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:19:42,239 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:19:42,241 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:19:42,241 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:31:20,342 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:31:20,343 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:31:20,344 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:31:20,345 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:31:42,308 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:31:42,309 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:31:42,311 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:31:42,311 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:39:34,393 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:39:34,393 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:39:34,395 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:39:34,395 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-21 14:42:24,369 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:42:24,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-21 14:42:24,372 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-21 14:42:24,372 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:51:24,357 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 11:51:26,783 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:51:26,785 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\1DAM\Desktop\programacion\Workspace2\Unidad4\src\main\resources
+2024-02-22 11:51:26,789 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:51:26,791 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\1DAM\Desktop\programacion\Workspace2\Unidad4\src\test\resources
+2024-02-22 11:51:30,737 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 11:51:30,741 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 11:51:30,747 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 11:51:30,747 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:00:35,544 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 12:00:36,568 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$b799dc22] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-02-22 12:00:36,603 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-02-22 12:00:41,712 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-02-22 12:00:41,713 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-02-22 12:00:42,392 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\1DAM\.sonarlint\xodus-local-only-issue-store4235118127908714778
+2024-02-22 12:05:43,239 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 12:05:43,247 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 12:05:43,251 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 12:05:43,251 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:06:13,294 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 12:06:13,298 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 12:06:13,301 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 12:06:13,302 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:56:28,144 [Worker-3: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 12:56:28,145 [Worker-3: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 12:56:28,148 [Worker-3: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 12:56:28,148 [Worker-3: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:10:24,031 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:10:24,032 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:10:24,034 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:10:24,034 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:10:55,078 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:10:55,078 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:10:55,081 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:10:55,082 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:18:10,515 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:18:10,516 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:18:10,518 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:18:10,519 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:18:13,867 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:18:13,867 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:18:13,870 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:18:13,870 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:21:05,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:21:05,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:21:05,936 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:21:05,937 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:21:28,869 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:21:28,869 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:21:28,871 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:21:28,872 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:22:35,317 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:22:35,318 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:22:35,320 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:22:35,321 [Worker-43: Launching TiendaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:24:13,399 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:24:13,400 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:24:13,402 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:24:13,403 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:37:46,783 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:37:46,784 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-22 13:37:46,787 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-22 13:37:46,787 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:42:40,265 [ForkJoinPool.commonPool-worker-48] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-02-22-13-42-40.tar.gz" created.
