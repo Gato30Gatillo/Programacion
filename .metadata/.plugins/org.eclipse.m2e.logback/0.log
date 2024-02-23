@@ -2215,3 +2215,12 @@
 2024-02-23 14:20:54,416 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
 2024-02-23 14:20:54,419 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-02-23 14:20:54,419 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-23 14:23:16,860 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-23 14:23:16,861 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-23 14:23:16,879 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-23 14:23:16,880 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-23 14:23:19,990 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-23 14:23:19,991 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-23 14:23:19,992 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-23 14:23:19,993 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-23 14:41:12,601 [ForkJoinPool.commonPool-worker-58] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-02-23-14-41-12.tar.gz" created.
