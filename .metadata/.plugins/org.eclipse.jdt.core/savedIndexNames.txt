@@ -23,6 +23,24 @@ INDEX VERSION 1.134+C:\Users\Usuario\Desktop\programación\Programacion\.metadata
 4094306404.index
 908397348.index
 1691546555.index
+<<<<<<< HEAD
+=======
+3748691627.index
+4057759478.index
+10937633.index
+2221281080.index
+2117636831.index
+2860558769.index
+3809978245.index
+627880943.index
+3816047834.index
+2895022013.index
+3652150901.index
+4085942800.index
+2287544931.index
+2871104390.index
+3043275049.index
+>>>>>>> a213351b09b429598a3d1374e31b878db79dd306
 1865797976.index
 1243382149.index
 341643846.index
