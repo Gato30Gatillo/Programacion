@@ -21,6 +21,7 @@ public class Tienda {
 	public Tienda(String nombre, String direccion,Cliente[] clientArray) {
 		
 		this(nombre,direccion);
+		copiarArray(clientes,clientArray);
 	}
 	
 	
@@ -111,6 +112,12 @@ public class Tienda {
 		
 		for(int i=0; i<CLIENTE_MAX;i++) {
 			clientes[i]=ClienteNull;
+		}
+	}
+	
+	private void copiarArray(Cliente[] array, Cliente[] arrayCopia) {
+		for (int i = 0; i < array.length;i++) {
+			arrayCopia[i]= array[i];
 		}
 	}
 }
