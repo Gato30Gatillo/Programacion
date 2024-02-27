@@ -2633,3 +2633,66 @@
 =======
 >>>>>>> a213351b09b429598a3d1374e31b878db79dd306
 >>>>>>> d23a2223c6e3d07f3a3c1e33b2ba935b027beec1
+2024-02-27 08:20:18,070 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-27 08:20:18,832 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$ed50d775] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-02-27 08:20:18,903 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-02-27 08:20:24,472 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-02-27 08:20:24,474 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-02-27 08:20:24,735 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\1DAM\.sonarlint\xodus-local-only-issue-store367165275475404778
+2024-02-27 08:20:24,741 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-02-27 08:20:27,844 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Unidad4:Unidad4:0.0.1-SNAPSHOT @ C:\Users\1DAM\Desktop\programacion\Workspace2\Unidad4\pom.xml.
+2024-02-27 08:20:30,771 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: iesjandula:proyectounidad4:0.0.1-SNAPSHOT @ C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\pom.xml.
+2024-02-27 08:20:31,187 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-27 08:20:31,589 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Unidad4:Unidad4:0.0.1-SNAPSHOT @ C:\Users\1DAM\Desktop\programacion\Workspace2\Unidad4\pom.xml.
+2024-02-27 08:20:32,103 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Unidad4/src
+2024-02-27 08:20:32,103 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Unidad4/src/main/resources overlaps with sources folder /Unidad4/src/main/resources
+2024-02-27 08:20:32,104 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Unidad4/src/test/java because it overlaps with /Unidad4/src
+2024-02-27 08:20:32,104 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Unidad4/src/test/resources overlaps with sources folder /Unidad4/src/test/resources
+2024-02-27 08:20:32,107 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-02-27 08:20:32,287 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-27 08:20:32,288 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\1DAM\Desktop\programacion\Workspace2\Unidad4\src\main\resources
+2024-02-27 08:20:32,292 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-27 08:20:32,293 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\1DAM\Desktop\programacion\Workspace2\Unidad4\src\test\resources
+2024-02-27 08:20:33,838 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 08:20:33,842 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 08:20:33,846 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 08:20:33,846 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 08:20:34,481 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\1DAM\.sonarlint\xodus-local-only-issue-store367165275475404778
+2024-02-27 08:20:34,496 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\1DAM\.sonarlint\xodus-local-only-issue-store367165275475404778
+2024-02-27 08:56:16,671 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 08:56:16,675 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 08:56:16,678 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 08:56:16,678 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 08:59:51,851 [Worker-30: Launching Problem52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 08:59:51,851 [Worker-30: Launching Problem52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 08:59:51,854 [Worker-30: Launching Problem52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 08:59:51,854 [Worker-30: Launching Problem52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:00:32,021 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:00:32,022 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:00:32,024 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:00:32,025 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:01:20,295 [Worker-34: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:01:20,296 [Worker-34: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:01:20,298 [Worker-34: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:01:20,299 [Worker-34: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:03:51,102 [Worker-32: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:03:51,103 [Worker-32: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:03:51,105 [Worker-32: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:03:51,106 [Worker-32: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:06:20,442 [Worker-36: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:06:20,443 [Worker-36: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:06:20,446 [Worker-36: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:06:20,447 [Worker-36: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:06:56,838 [Worker-37: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:06:56,839 [Worker-37: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:06:56,843 [Worker-37: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:06:56,843 [Worker-37: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:13:35,544 [Worker-30: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:13:35,545 [Worker-30: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:13:35,547 [Worker-30: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:13:35,548 [Worker-30: Launching Problem52Multiplicacion] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:19:01,317 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:19:01,317 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to C:\Users\1DAM\Desktop\programacion\Workspace2\proyectounidad4\target
+2024-02-27 09:19:01,319 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-27 09:19:01,320 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 09:19:03,703 [ForkJoinPool.commonPool-worker-26] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-02-27-09-19-03.tar.gz" created.

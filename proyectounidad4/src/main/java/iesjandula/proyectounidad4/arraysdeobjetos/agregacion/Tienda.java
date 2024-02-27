@@ -4,28 +4,8 @@ public class Tienda {
 
 	   private static final int CLIENTE_MAX = 200;
 	   private static final Cliente clienteNull = new Cliente("Cliente", "Mock", "ZZZZZZZZZZZZZZZ");
-
-<<<<<<< HEAD
-	public Tienda(String nombre, String direccion) {
-		this.nombre = nombre;
-		this.direccion = direccion;
-		clientes = new Cliente[CLIENTE_MAX];
-		
-		rellenaClientesNull();
-	}
-	
-	public Tienda(String nombre, String direccion,Cliente[] clientArray) {
-		
-		this(nombre,direccion);
-		copiarArray(clientes,clientArray);
-	}
-	
-	
-=======
 	   private String nombre;
 	   private String direccion;
->>>>>>> a213351b09b429598a3d1374e31b878db79dd306
-
 	   private Cliente[] clientes;
 	   private int contClientes = 0;
 
@@ -86,8 +66,11 @@ public class Tienda {
 
 	               arrayCliente[cont] = cliente;
 	               cont++;
+	           }
+	       }
+	       return arrayCliente;
+	   }
 
-<<<<<<< HEAD
 	public boolean borrarCliente(Cliente cl) {
 		boolean encontrado = false;
 		for (int i = 0; i < CLIENTE_MAX && !encontrado; i++) {
@@ -115,7 +98,7 @@ public class Tienda {
 	private void rellenaClientesNull() {
 		
 		for(int i=0; i<CLIENTE_MAX;i++) {
-			clientes[i]=ClienteNull;
+			clientes[i]=clienteNull;
 		}
 	}
 	
@@ -123,15 +106,6 @@ public class Tienda {
 		for (int i = 0; i < array.length;i++) {
 			arrayCopia[i]= array[i];
 		}
-	}
-}
-=======
-	           }
-
-	       }
-
-	       return arrayCliente;
-
 	   }
 
 	   public boolean addCliente(Cliente cl) {
@@ -161,46 +135,4 @@ public class Tienda {
 	       return hayHueco;
 	   }
 
-	   public boolean borrarCliente(Cliente cl) {
-
-	       boolean encontrado = false;
-	       for (int i = 0; i < CLIENTE_MAX && !encontrado; i++) {
-
-	           if (clientes[i].equals(cl)) {
-	               encontrado = true;
-	               clientes[i] = clienteNull;
-	               contClientes--;
-	           }
-
-	       }
-
-	       return encontrado;
-
 	   }
-
-	   public boolean hayClientes() {
-
-	       return contClientes > 0;
-	   }
-	   // hacer el buscar
-	   // probarlo en un test
-	   
-	   public Cliente buscarClientePorDni(String dni) {
-	       
-	       
-	       
-	       return null;        
-	       
-	   }
-
-	   
-	   private void rellenaClientesNull() {
-
-	       for (int i = 0; i < CLIENTE_MAX; i++) {
-
-	           clientes[i] = clienteNull;
-	       }
-	   }
-
-	}
->>>>>>> a213351b09b429598a3d1374e31b878db79dd306
