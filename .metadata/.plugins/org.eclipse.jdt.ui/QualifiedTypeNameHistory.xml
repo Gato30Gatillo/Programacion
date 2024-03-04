@@ -11,8 +11,9 @@
     <fullyQualifiedTypeName name="interfacesherencia.Calculator"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="genericas.Operaciones"/>
-    <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejemplosenclase.ArrayMetodos"/>
     <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejercicio.eningles.exercise24.Exercise24Test"/>
     <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejercicio.eningles.exercise24.exercise24"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="iesjandula.proyectounidad4.arrays.arrayLiterales"/>
+    <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejemplosenclase.ArrayMetodos"/>
 </qualifiedTypeNameHistroy>
