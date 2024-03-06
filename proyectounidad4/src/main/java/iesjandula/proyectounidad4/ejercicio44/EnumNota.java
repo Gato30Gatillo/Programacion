@@ -4,8 +4,10 @@ public enum EnumNota {
 
 	NOTA_ALARMA("nota alarma"),NOTA_MARCADA("nota Marcada");
 
-	EnumNota(String string) {
-		// TODO Auto-generated constructor stub
+	
+	
+	EnumNota(String nota) {
+
 	}
 	
 	
