@@ -16,4 +16,7 @@
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="iesjandula.proyectounidad4.arrays.arrayLiterales"/>
     <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejemplosenclase.ArrayMetodos"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
 </qualifiedTypeNameHistroy>
