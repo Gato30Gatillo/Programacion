@@ -1,27 +1,43 @@
 package iesjandula.proyectounidad4.ejercicio44;
 
-public class NotaAlarma extends Nota {
+public class NotaAlarma extends Nota{
 
-	private int hora;
-
-	public NotaAlarma(int id, String texto, int numPalabraComienzo,int hora) {
-		super(id,texto,numPalabraComienzo);
-		this.hora = hora;
+	private String hora;
+	
+	public NotaAlarma(int id, String lineaTexto, int numPalabraComienzo, String hora) {
+		super(id, lineaTexto, numPalabraComienzo);
+		this.hora=hora;
+		
 	}
+	
+	
 
-	public int getHora() {
+	public String getHora() {
 		return hora;
 	}
 
-	public void setHora(int hora) {
+
+
+	public void setHora(String hora) {
 		this.hora = hora;
 	}
 
+
+
 	@Override
-	public String toString() {
-		return "NotaAlarma [hora=" + hora + ", Id=" + getId() + ", Texto=" + getTexto()
-				+ ", NumPalabraComienzo=" + getNumPalabraComienzo() + "]";
+	public EnumNota devuelveTipoNota() {
+		// TODO Auto-generated method stub
+		return EnumNota.NOTA_ALARMA;
 	}
 
+
+
+	@Override
+	public String toString() {
+		return "NotaAlarma [hora=" + hora + ", tipoNota=" + devuelveTipoNota() + ", id=" + getId()
+				+ ", lineaTexto=" + getLineaTexto() + ", numPalabraComienzo=" + getNumPalabraComienzo() + "]";
+	}
+	
+	
 
 }

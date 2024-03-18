@@ -1,14 +1,5 @@
 package iesjandula.proyectounidad4.ejercicio44;
 
 public enum EnumNota {
-
-	NOTA_ALARMA("nota alarma"),NOTA_MARCADA("nota Marcada");
-
-	
-	
-	EnumNota(String nota) {
-
-	}
-	
-	
+	NOTA_ALARMA, NOTA_MARCADA;
 }

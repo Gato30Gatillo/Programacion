@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="arrays.arrayLiterales"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="interfacesherencia.Calculator"/>
-    <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="genericas.Operaciones"/>
     <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejercicio.eningles.exercise24.Exercise24Test"/>
     <fullyQualifiedTypeName name="iesjandula.proyectounidad4.ejercicio.eningles.exercise24.exercise24"/>
@@ -19,4 +18,6 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
 </qualifiedTypeNameHistroy>
